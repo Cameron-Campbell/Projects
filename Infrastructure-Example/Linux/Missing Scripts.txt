@@ -1,0 +1,7 @@
+I had to reinstall my ubuntu machine and am missing the following scripts I will look in to replacing:
+Company_finance.sh
+Company_person_I.sh
+listen.sh
+our_first_script.sh
+rev_shell.sh
+roulette_dealer_finder_by_time.sh
